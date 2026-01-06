@@ -114,10 +114,10 @@ platform :ios do
         add_id_info_uses_idfa: true
       },
       app_review_information: {
-        first_name: "Serhii",
-        last_name: "Hnatiuk",
-        phone_number: "+14017778094",
-        email_address: "hnatiuk.serhii@icloud.com"
+        first_name: "Viktoriia",
+        last_name: "Rybytska",
+        phone_number: "+380999043556",
+        email_address: "maksavoidwww@gmail.com"
       },
       reject_if_possible: false,
       run_precheck_before_submit: true,
@@ -128,6 +128,7 @@ platform :ios do
     )
   end
 end
+
 
 
 
